@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently a first-year linguistics PhD student at Michigan State University. I am interested in language documentation and computer modeling.
 <!--
 **XiaYili/XiaYili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
