@@ -1,3 +1,1 @@
-## Welcome! 
-I am currently a linguistics PhD student at Michigan State University. I am interested in child language acquisition and computational linguistics.
-
+Dual PhD student in Linguistics and Computer Science @ Michigan State University
